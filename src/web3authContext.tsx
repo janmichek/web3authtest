@@ -24,6 +24,7 @@ const createWeb3AuthChainConfig = (chain: any) => ({
   logo: "https://polkadot.network/assets/img/logos/polkadot-logo.svg",
 });
 
+
 // IMP START - Config
 const web3AuthContextConfig: Web3AuthContextConfig = {
   web3AuthOptions: {
